@@ -1,0 +1,10 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+scripts/eppful_scripts.py
+scripts/depl_lotteryBKP.py
+.vscode/settings.json
+scripts/deploy.py
